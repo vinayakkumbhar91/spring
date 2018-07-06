@@ -6,8 +6,6 @@ public class A {
 		System.out.println("This is vinayak");
 		
 		System.out.println("second change");
-
-		System.out.println("3rd change");
 	}
 
 }
