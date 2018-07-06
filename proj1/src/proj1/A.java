@@ -7,6 +7,7 @@ public class A {
 		
 		System.out.println("second change");
 
+		System.out.println("3rd change");
 	}
 
 }
