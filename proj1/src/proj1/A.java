@@ -6,6 +6,8 @@ public class A {
 		System.out.println("This is vinayak");
 
 		System.out.println("hiii");
+		
+		System.out.println("hiii");
 	}
 
 }
