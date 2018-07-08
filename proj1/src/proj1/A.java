@@ -11,6 +11,8 @@ public class A {
 		
 		System.out.println("hiii");
 		System.out.println("hello");
+		
+		int x=0;
 	}
 
 }
