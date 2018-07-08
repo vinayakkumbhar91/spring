@@ -10,6 +10,7 @@ public class A {
 		System.out.println("hiii");
 		
 		System.out.println("hiii");
+		System.out.println("hello");
 	}
 
 }
