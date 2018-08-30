@@ -7,10 +7,6 @@ public class A {
 
 		System.out.println("hiii");
 		
-		System.out.println("hiii");
-		
-		System.out.println("hiii");
-		System.out.println("hello");
 
 		int y=1;
 		
