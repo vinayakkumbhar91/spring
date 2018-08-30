@@ -8,6 +8,7 @@ public class A {
 		System.out.println("hiii");
 		
 		System.out.println("heeeeeelllllllllllloooooo");
+		System.out.println("welcome");
 		int y=1;
 		
 		int x=0;
