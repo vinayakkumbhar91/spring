@@ -8,7 +8,9 @@ public class A {
 		System.out.println("hiii");
 		
 		System.out.println("heeeeeelllllllllllloooooo");
-		sysout
+
+		System.out.println("welcome");
+
 		int y=1;
 		
 		int x=0;
