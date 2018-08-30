@@ -7,7 +7,7 @@ public class A {
 
 		System.out.println("hiii");
 		
-		System.out.println("heeeeeellllllllllllooooooooo");
+		System.out.println("heeeeeelllllllllllloooooo");
 		int y=1;
 		
 		int x=0;
