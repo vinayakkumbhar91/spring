@@ -9,6 +9,9 @@ public class A {
 		
 		System.out.println("heeeeeelllllllllllloooooo");
 
+		System.out.println("welcomexxxx");
+
+
 		System.out.println("welcome");
 
 		int y=1;
